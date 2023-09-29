@@ -1,4 +1,4 @@
-
+o
 {
     "name": "Telegram Inline Filter Bot",
     "description": "An Inline Filter Bot using Mongodb",
@@ -70,7 +70,7 @@
     "formation": {
         "worker": {
             "quantity": 1,
-            "size": "free"
+            "size": "eco"
         }
     }
 }
